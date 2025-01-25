@@ -13,3 +13,10 @@ Hi there, i'm Supawut
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
+
+<h3>My most recent articles</h3>
+<ul>
+  <li><a href="https://codejuniorthailand.com/python-santa-clause/"><i>Python Drawing Santa วาดรูปซานต้า</i></a></li>
+  <li><a href="https://codejuniorthailand.com/drawing-heart-using-python/"><i>Python 💖 วาดรูปหัวใจ</i></a></li>
+  <li><a href="[Python วาดรูปแกะ ง่ายๆ](https://codejuniorthailand.com/python-%e0%b8%a7%e0%b8%b2%e0%b8%94%e0%b8%a3%e0%b8%b9%e0%b8%9b%e0%b9%81%e0%b8%81%e0%b8%b0-%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b9%86/)"><i>Python วาดรูปแกะ ง่ายๆ</i></a></li>
+</ul>
