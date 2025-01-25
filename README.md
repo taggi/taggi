@@ -7,7 +7,7 @@ Hi there, i'm Supawut
 <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white" />
 <img alt="Micro:bit" src="https://img.shields.io/badge/-Micro:bit -13aa52?style=flat-square&logo=microbit&logoColor=white" />
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-DD0031?style=flat-square&logo=raspberrypi&logoColor=white" />
-<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-2088FF?style=flat-square&logo=arduino-actions&logoColor=white" />
+<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-2088FF?style=flat-square&logo=arduino&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
